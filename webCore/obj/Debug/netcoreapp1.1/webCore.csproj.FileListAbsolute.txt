@@ -1,0 +1,9 @@
+/Users/didok49/Projects/webCore/webCore/bin/Debug/netcoreapp1.1/webCore.deps.json
+/Users/didok49/Projects/webCore/webCore/bin/Debug/netcoreapp1.1/webCore.runtimeconfig.json
+/Users/didok49/Projects/webCore/webCore/bin/Debug/netcoreapp1.1/webCore.runtimeconfig.dev.json
+/Users/didok49/Projects/webCore/webCore/bin/Debug/netcoreapp1.1/webCore.dll
+/Users/didok49/Projects/webCore/webCore/bin/Debug/netcoreapp1.1/webCore.pdb
+/Users/didok49/Projects/webCore/webCore/obj/Debug/netcoreapp1.1/webCore.csprojResolveAssemblyReference.cache
+/Users/didok49/Projects/webCore/webCore/obj/Debug/netcoreapp1.1/webCore.AssemblyInfo.cs
+/Users/didok49/Projects/webCore/webCore/obj/Debug/netcoreapp1.1/webCore.dll
+/Users/didok49/Projects/webCore/webCore/obj/Debug/netcoreapp1.1/webCore.pdb
